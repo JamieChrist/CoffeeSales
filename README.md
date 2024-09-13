@@ -1,5 +1,7 @@
 # Coffee Sales Dashboard
 
+![Coffee Sales Dashboard](/CoffeeDashboard.png)
+
 The Coffee Sales Dashboard features three interactive graphs and five customizable slicers, allowing users to filter sales data based on specific dates, coffee types, roast types, sizes, and loyalty status. Below is a summary of the dashboard’s features and the steps taken to create it:
 
 ## Features
